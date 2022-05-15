@@ -1190,7 +1190,7 @@ style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;mso-bidi-font-
 
 <p class=MsoNormal><span style='mso-bookmark:_Hlk60342005'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:16.0pt;mso-bidi-font-size:10.0pt;line-height:
-115%'>(admin interface is same like client interface, so I’ll place those
+115%'>(admin interface is same like client interface, so IÂ’ll place those
 screenshots which are different from client interface)<o:p></o:p></span></b></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:23.25pt;mso-add-space:
@@ -1261,7 +1261,7 @@ Calibri;mso-fareast-theme-font:minor-latin;mso-bidi-font-family:Calibri;
 mso-bidi-theme-font:minor-latin'><span style='mso-list:Ignore'>(5)<span
 style='font:7.0pt "Times New Roman"'>&nbsp; </span></span></span></b><![endif]><b
 style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;mso-bidi-font-size:
-10.0pt;line-height:115%'><span style='mso-spacerun:yes'> </span>My Profile<br>
+10.0pt;line-height:115%'><span style='mso-spacerun:yes'>Â </span>My Profile<br>
 <span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape id="Picture_x0020_61"
  o:spid="_x0000_i1026" type="#_x0000_t75" style='width:486.75pt;height:219pt;
  visibility:visible;mso-wrap-style:square'>
@@ -1270,7 +1270,7 @@ style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;mso-bidi-font-
 src="README_files/image036.jpg" v:shapes="Picture_x0020_61"><![endif]></span></span></b></span><span
 style='mso-bookmark:_Hlk60342005'><span style='font-size:14.0pt;mso-bidi-font-size:
 10.0pt;line-height:115%'>There are no stats in (admin my profile page) because
-admin can’t submit a ticket, it’s job is to mark complaints as pending/resolved
+admin canÂ’t submit a ticket, itÂ’s job is to mark complaints as pending/resolved
 and give admin access or remove admin access of clients.<o:p></o:p></span></span></p>
 
 <p class=MsoNormal><span style='mso-bookmark:_Hlk60342005'><b style='mso-bidi-font-weight:
@@ -1278,7 +1278,7 @@ normal'><span style='font-size:16.0pt;mso-bidi-font-size:10.0pt;line-height:
 115%'><br>
 </span></b></span><span style='mso-bookmark:_Hlk60342005'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman","serif"'>Source
-Code is in compressed file named as : “citizenportal.zip”<o:p></o:p></span></b></span></p>
+Code is in compressed file named as : Â“citizenportal.zipÂ”<o:p></o:p></span></b></span></p>
 
 <p class=MsoNormal><span style='mso-bookmark:_Hlk60342005'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman","serif"'>Database
