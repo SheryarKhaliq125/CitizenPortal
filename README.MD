@@ -604,7 +604,7 @@ style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;mso-bidi-font-
 
 <p class=MsoNormal><span style='mso-bookmark:_Hlk60342005'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:16.0pt;mso-bidi-font-size:10.0pt;line-height:
-115%'>(admin interface is same like client interface, so Ill place those
+115%'>(admin interface is same like client interface, so I'll place those
 screenshots which are different from client interface)</span></b></span></p>
 
 <p class=MsoListParagraphCxSpFirst style='margin-left:23.25pt;mso-add-space:
@@ -684,7 +684,7 @@ style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;mso-bidi-font-
 src="README_files/image036.jpg" v:shapes="Picture_x0020_61"><![endif]></span></span></b></span><span
 style='mso-bookmark:_Hlk60342005'><span style='font-size:14.0pt;mso-bidi-font-size:
 10.0pt;line-height:115%'>There are no stats in (admin my profile page) because
-admin cant submit a ticket, its job is to mark complaints as pending/resolved
+admin can't submit a ticket, it's job is to mark complaints as pending/resolved
 and give admin access or remove admin access of clients.</span></span></p>
 
 <p class=MsoNormal><span style='mso-bookmark:_Hlk60342005'><b style='mso-bidi-font-weight:
