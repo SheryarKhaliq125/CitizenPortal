@@ -683,7 +683,7 @@ style='mso-bidi-font-weight:normal'><span style='font-size:16.0pt;mso-bidi-font-
 </v:shape><![endif]--><![if !vml]><img border=0 width=649 height=292
 src="README_files/image036.jpg" v:shapes="Picture_x0020_61"><![endif]></span></span></b></span><span
 style='mso-bookmark:_Hlk60342005'><span style='font-size:14.0pt;mso-bidi-font-size:
-10.0pt;line-height:115%'>There are no stats in (admin my profile page) because
+10.0pt;line-height:115%'><br>There are no stats in (admin my profile page) because
 admin can't submit a ticket, it's job is to mark complaints as pending/resolved
 and give admin access or remove admin access of clients.</span></span></p>
 
@@ -692,7 +692,7 @@ normal'><span style='font-size:16.0pt;mso-bidi-font-size:10.0pt;line-height:
 115%'><br>
 </span></b></span><span style='mso-bookmark:_Hlk60342005'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman","serif"'>Source
-Code is in compressed file named as : citizenportal.zip</span></b></span></p>
+Code is in compressed file named as : citizenportal.zip</span></b></span></p>
 
 <p class=MsoNormal><span style='mso-bookmark:_Hlk60342005'><b style='mso-bidi-font-weight:
 normal'><span style='font-size:16.0pt;line-height:115%;font-family:"Times New Roman","serif"'>Database
